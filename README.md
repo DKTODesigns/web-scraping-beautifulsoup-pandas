@@ -34,13 +34,6 @@ This project demonstrates how to extract, parse, and structure web data from HTM
 
 Extracted dataset of the most densely populated countries:
 
-| Rank | Country | Population | Area | Density |
-|------|--------|-----------|------|--------|
-| 1 | Singapore | ... | ... | ... |
-## Example Output
-
-Extracted dataset of the most densely populated countries:
-
 ![DataFrame Output](dataframe_output.png)
 ## Key Takeaways
 - Web data can be transformed into structured datasets
